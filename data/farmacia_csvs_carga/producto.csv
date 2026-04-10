@@ -1,0 +1,61 @@
+id_producto,codigo_producto,nombre_producto,id_categoria,id_laboratorio,tipo_producto,presentacion,unidad_medida,precio_venta_referencia,costo_referencia,requiere_receta,estado
+1,PROD-0001,Paracetamol 500mg,1,8,MEDICAMENTO,Paquete,g,15.05,8.14,true,ACTIVO
+2,PROD-0002,Ibuprofeno 400mg,1,2,MEDICAMENTO,Tubo,g,11.86,7.99,false,ACTIVO
+3,PROD-0003,Naproxeno 550mg,1,6,MEDICAMENTO,Paquete,ml,13.42,7.05,false,ACTIVO
+4,PROD-0004,Acetaminofén Infantil,1,6,MEDICAMENTO,Frasco,g,8.01,4.13,false,ACTIVO
+5,PROD-0005,Diclofenaco Gel,1,5,MEDICAMENTO,Sobre,cápsulas,5.90,2.76,false,ACTIVO
+6,PROD-0006,Ketorolaco 10mg,1,10,MEDICAMENTO,Sobre,g,5.80,3.45,false,ACTIVO
+7,PROD-0007,Aspirina 100mg,1,7,MEDICAMENTO,Paquete,tabletas,8.11,4.00,false,ACTIVO
+8,PROD-0008,Meloxicam 15mg,1,10,MEDICAMENTO,Caja,tabletas,8.42,5.34,false,ACTIVO
+9,PROD-0009,Antigripal Día,2,5,MEDICAMENTO,Sobre,g,4.23,2.11,false,ACTIVO
+10,PROD-0010,Antigripal Noche,2,5,MEDICAMENTO,Sobre,cápsulas,11.94,6.42,true,ACTIVO
+11,PROD-0011,Jarabe Tos Adulto,2,6,MEDICAMENTO,Tubo,ml,3.40,2.23,true,ACTIVO
+12,PROD-0012,Jarabe Tos Infantil,2,8,MEDICAMENTO,Paquete,ml,6.61,3.53,false,ACTIVO
+13,PROD-0013,Pastillas Garganta Miel,2,6,MEDICAMENTO,Unidad,cápsulas,9.50,6.09,true,ACTIVO
+14,PROD-0014,Spray Nasal,2,2,MEDICAMENTO,Caja,g,3.60,2.08,false,ACTIVO
+15,PROD-0015,Descongestionante 12h,2,7,MEDICAMENTO,Frasco,unidad,4.00,1.91,false,ACTIVO
+16,PROD-0016,Vitamina C Efervescente,2,6,MEDICAMENTO,Caja,ml,5.47,3.65,false,ACTIVO
+17,PROD-0017,Protector Solar FPS50,3,2,DERMOCOSMETICO,Caja,cápsulas,34.16,19.07,false,ACTIVO
+18,PROD-0018,Crema Reparadora,3,1,DERMOCOSMETICO,Frasco,tabletas,18.54,12.26,false,ACTIVO
+19,PROD-0019,Gel Limpiador Facial,3,8,DERMOCOSMETICO,Frasco,ml,34.16,20.01,false,ACTIVO
+20,PROD-0020,Serum Hidratante,3,9,DERMOCOSMETICO,Frasco,unidad,10.16,7.01,false,ACTIVO
+21,PROD-0021,Loción Corporal Piel Sensible,3,4,DERMOCOSMETICO,Paquete,cápsulas,10.21,5.46,false,ACTIVO
+22,PROD-0022,Crema Antiacné,3,5,DERMOCOSMETICO,Unidad,ml,16.10,11.58,false,ACTIVO
+23,PROD-0023,Agua Micelar,3,2,DERMOCOSMETICO,Paquete,ml,11.58,6.91,false,ACTIVO
+24,PROD-0024,Bálsamo Labial,3,5,DERMOCOSMETICO,Paquete,cápsulas,30.06,14.40,false,ACTIVO
+25,PROD-0025,Pasta Dental Blanqueadora,4,9,HIGIENE,Frasco,g,5.43,3.77,false,ACTIVO
+26,PROD-0026,Enjuague Bucal Menta,4,1,HIGIENE,Caja,tabletas,5.34,3.42,false,ACTIVO
+27,PROD-0027,Cepillo Dental Suave,4,9,HIGIENE,Caja,unidad,11.04,5.35,false,ACTIVO
+28,PROD-0028,Hilo Dental,4,5,HIGIENE,Tubo,unidad,4.50,2.78,false,ACTIVO
+29,PROD-0029,Pasta Dental Infantil,4,3,HIGIENE,Frasco,ml,10.81,7.21,false,ACTIVO
+30,PROD-0030,Cepillo Eléctrico Repuesto,4,4,HIGIENE,Tubo,ml,10.72,5.71,false,ACTIVO
+31,PROD-0031,Limpiador Lingual,4,4,HIGIENE,Frasco,unidad,4.79,3.03,false,ACTIVO
+32,PROD-0032,Multivitamínico Adulto,5,9,SUPLEMENTO,Tubo,unidad,27.18,17.58,false,ACTIVO
+33,PROD-0033,Vitamina D3,5,6,SUPLEMENTO,Unidad,cápsulas,10.18,6.80,false,ACTIVO
+34,PROD-0034,Omega 3,5,4,SUPLEMENTO,Tubo,tabletas,12.91,6.89,false,ACTIVO
+35,PROD-0035,Colágeno Hidrolizado,5,7,SUPLEMENTO,Tubo,tabletas,20.63,12.45,false,ACTIVO
+36,PROD-0036,Magnesio Quelado,5,7,SUPLEMENTO,Paquete,unidad,19.35,11.38,false,ACTIVO
+37,PROD-0037,Vitamina C 1000mg,5,3,SUPLEMENTO,Sobre,unidad,8.05,5.38,false,ACTIVO
+38,PROD-0038,Zinc + C,5,3,SUPLEMENTO,Caja,unidad,7.60,4.85,false,ACTIVO
+39,PROD-0039,Complejo B,5,8,SUPLEMENTO,Unidad,ml,24.93,16.63,false,ACTIVO
+40,PROD-0040,Pañales Talla M,6,9,BEBE,Unidad,unidad,16.08,8.61,false,ACTIVO
+41,PROD-0041,Pañales Talla G,6,8,BEBE,Paquete,cápsulas,26.40,17.87,false,ACTIVO
+42,PROD-0042,Toallitas Húmedas,6,5,BEBE,Paquete,tabletas,11.06,5.39,false,ACTIVO
+43,PROD-0043,Crema Rozaduras,6,4,BEBE,Unidad,ml,14.81,10.28,false,ACTIVO
+44,PROD-0044,Shampoo Bebé,6,10,BEBE,Sobre,unidad,13.15,9.30,false,ACTIVO
+45,PROD-0045,Fórmula Etapa 1,6,7,BEBE,Paquete,cápsulas,16.63,11.07,false,ACTIVO
+46,PROD-0046,Gel Baño Bebé,6,3,BEBE,Unidad,ml,21.24,14.53,false,ACTIVO
+47,PROD-0047,Termómetro Digital,7,3,DISPOSITIVO_MEDICO,Caja,g,30.45,15.78,false,ACTIVO
+48,PROD-0048,Mascarillas x50,7,2,DISPOSITIVO_MEDICO,Unidad,unidad,38.36,17.58,false,ACTIVO
+49,PROD-0049,Venda Elástica,7,4,DISPOSITIVO_MEDICO,Frasco,unidad,19.40,10.66,false,ACTIVO
+50,PROD-0050,Alcohol 70%,7,10,DISPOSITIVO_MEDICO,Paquete,unidad,23.67,13.05,false,ACTIVO
+51,PROD-0051,Guantes Desechables,7,4,DISPOSITIVO_MEDICO,Caja,cápsulas,24.62,17.62,false,ACTIVO
+52,PROD-0052,Glucómetro,7,1,DISPOSITIVO_MEDICO,Tubo,cápsulas,33.16,23.52,false,ACTIVO
+53,PROD-0053,Tiras Reactivas,7,8,DISPOSITIVO_MEDICO,Sobre,ml,22.22,12.61,false,ACTIVO
+54,PROD-0054,Shampoo Anticaspa,8,10,CUIDADO_PERSONAL,Tubo,g,9.93,5.48,false,ACTIVO
+55,PROD-0055,Jabón Líquido,8,1,CUIDADO_PERSONAL,Unidad,g,5.59,2.53,false,ACTIVO
+56,PROD-0056,Desodorante Roll-On,8,4,CUIDADO_PERSONAL,Caja,ml,12.31,5.85,false,ACTIVO
+57,PROD-0057,Crema Corporal,8,4,CUIDADO_PERSONAL,Unidad,ml,6.30,4.03,false,ACTIVO
+58,PROD-0058,Acondicionador,8,5,CUIDADO_PERSONAL,Tubo,g,4.49,2.92,false,ACTIVO
+59,PROD-0059,Toallas Sanitarias,8,5,CUIDADO_PERSONAL,Sobre,cápsulas,4.33,1.97,false,ACTIVO
+60,PROD-0060,Gel Antibacterial,8,9,CUIDADO_PERSONAL,Frasco,g,3.33,1.51,false,ACTIVO

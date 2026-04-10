@@ -1,0 +1,8 @@
+id_sucursal,codigo_sucursal,nombre_sucursal,direccion,telefono,id_distrito,fecha_apertura,estado
+1,SUC-001,Farmacia Central SJ,"Avenida principal, local 1, Carmen",2291-2824,1,2022-01-24,ACTIVA
+2,SUC-002,Farmacia Escazú,"Avenida principal, local 2, Escazú Centro",2245-5012,3,2023-04-05,ACTIVA
+3,SUC-003,Farmacia Alajuela Centro,"Avenida principal, local 3, Alajuela Centro",2223-9935,5,2021-02-19,ACTIVA
+4,SUC-004,Farmacia San Ramón,"Avenida principal, local 4, San Ramón Centro",2264-1520,7,2022-01-03,ACTIVA
+5,SUC-005,Farmacia Cartago Centro,"Avenida principal, local 5, Oriental",2237-4811,9,2023-09-20,ACTIVA
+6,SUC-006,Farmacia Tres Ríos,"Avenida principal, local 6, Tres Ríos",2213-4257,11,2021-12-21,ACTIVA
+7,SUC-007,Farmacia Heredia,"Avenida principal, local 7, Heredia Centro",2299-9928,13,2022-07-08,ACTIVA

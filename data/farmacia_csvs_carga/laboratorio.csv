@@ -1,0 +1,11 @@
+id_laboratorio,codigo_laboratorio,nombre_laboratorio,pais_origen,estado
+1,LAB-001,PharmaNova,Costa Rica,ACTIVO
+2,LAB-002,BioSalud,México,ACTIVO
+3,LAB-003,Medigen,Estados Unidos,ACTIVO
+4,LAB-004,Vitalis,Colombia,ACTIVO
+5,LAB-005,Dermacare,España,ACTIVO
+6,LAB-006,NutriPlus,Argentina,ACTIVO
+7,LAB-007,Clinix,Alemania,ACTIVO
+8,LAB-008,Farmalab,Chile,ACTIVO
+9,LAB-009,AlfaMed,Panamá,ACTIVO
+10,LAB-010,OmegaRx,Brasil,ACTIVO

@@ -1,0 +1,9 @@
+id_categoria,codigo_categoria,nombre_categoria,descripcion
+1,ANALG,Analgésicos,Medicamentos para dolor y fiebre
+2,GRIPE,Antigripales,Productos para resfriado y gripe
+3,DERMO,Dermocosmética,Cuidado dermatológico especializado
+4,HIGIE,Higiene Oral,Productos de higiene y cuidado bucal
+5,VITAS,Vitaminas,Suplementos y vitaminas
+6,BEBES,Cuidado del Bebé,Productos para higiene y cuidado de bebés
+7,DISPO,Dispositivos Médicos,Instrumentos y accesorios de uso médico
+8,PERSO,Cuidado Personal,Productos de aseo y cuidado personal

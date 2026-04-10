@@ -1,0 +1,9 @@
+id_proveedor,codigo_proveedor,nombre_proveedor,tipo_identificacion,numero_identificacion,telefono,correo,direccion,contacto_principal,estado
+1,PROV-001,Distribuidora Salud Integral,CEDULA_JURIDICA,3-481657,2459-3458,contacto1@proveedor.com,"Zona industrial 1, Costa Rica",Luis Gómez,ACTIVO
+2,PROV-002,Abastecedora Médica CR,CEDULA_JURIDICA,3-999138,2414-7870,contacto2@proveedor.com,"Zona industrial 2, Costa Rica",Luis Gómez,ACTIVO
+3,PROV-003,Suministros Farmacéuticos del Valle,CEDULA_JURIDICA,3-437433,2441-7819,contacto3@proveedor.com,"Zona industrial 3, Costa Rica",Jorge Salas,ACTIVO
+4,PROV-004,Comercializadora Alfa Salud,CEDULA_JURIDICA,3-435476,2444-2276,contacto4@proveedor.com,"Zona industrial 4, Costa Rica",Andrea Vargas,ACTIVO
+5,PROV-005,BioDistribución Central,CEDULA_JURIDICA,3-490917,2425-9225,contacto5@proveedor.com,"Zona industrial 5, Costa Rica",Jorge Salas,ACTIVO
+6,PROV-006,Farmasupply Costa Rica,CEDULA_JURIDICA,3-155230,2432-4656,contacto6@proveedor.com,"Zona industrial 6, Costa Rica",Andrea Vargas,ACTIVO
+7,PROV-007,MediExpress Proveedores,CEDULA_JURIDICA,3-148159,2461-2129,contacto7@proveedor.com,"Zona industrial 7, Costa Rica",Carlos Rojas,ACTIVO
+8,PROV-008,Logística y Salud Pharma,CEDULA_JURIDICA,3-396020,2449-6362,contacto8@proveedor.com,"Zona industrial 8, Costa Rica",María Pérez,ACTIVO
