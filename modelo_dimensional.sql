@@ -1,3 +1,4 @@
+CREATE SCHEMA IF NOT EXISTS dw_farmacia;
 SET search_path TO dw_farmacia;
 
 -- DIMENSIONES
