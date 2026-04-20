@@ -1,0 +1,3 @@
+@echo off
+cd /d C:\metabase
+java -jar metabase.jar
