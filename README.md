@@ -89,7 +89,6 @@ proyecto1-BI-red-farmacias/
 │       ├── proveedor.csv
 │       ├── compra.csv
 │       ├── detalle_compra.csv
-│       ├── inventario_sucursal.csv
 │       ├── venta.csv
 │       ├── detalle_venta.csv
 │
