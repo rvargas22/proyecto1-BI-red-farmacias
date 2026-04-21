@@ -75,6 +75,7 @@ proyecto1-BI-red-farmacias/
 │   ├── oltp_red_farmacias.sql
 │   ├── dw_red_farmacias.sql
 │   └── backup_red_farmacias.backup
+│   └── backup_OTPL_DW_Post_ETL_Redfarmacias.backup
 │
 ├── data/
 │   └── farmacia_csvs_carga/
@@ -104,6 +105,9 @@ proyecto1-BI-red-farmacias/
 ├── docs/
 │   ├── Documento Apoyo Proyecto 1 - BI - FINAL.pdf
 │   └── Proyecto01_BI_Red Farmacias.pdf
-│
-└── dashboard/
-    └── evidencias_metabase/
+│   └── Documento Acceso Repositorio GitHub Proyecto 1 - BI - FINAL.pdf
+│   └── ReadMe.txt
+│   └── Carpeta: Scripts y Backups
+│ 
+├── dashboard/
+    └── Archivo de código en GitHub / Evidencia en Documento Apoyo Proyecto 1 - BI - FINAL.pdf
