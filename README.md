@@ -92,7 +92,6 @@ proyecto1-BI-red-farmacias/
 │       ├── inventario_sucursal.csv
 │       ├── venta.csv
 │       ├── detalle_venta.csv
-│       └── movimiento_inventario.csv
 │
 ├── etl/
 │   ├── tr_dim_tiempo.ktr
